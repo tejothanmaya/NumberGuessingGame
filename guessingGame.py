@@ -1,5 +1,5 @@
 import random
-print("Nimber Guessing Game")
+print("Number Guessing Game")
 chances = 0
 number = random.randint(1,9)
 guess = int(input("Enter your guess:"))
